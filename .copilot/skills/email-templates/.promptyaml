@@ -1,0 +1,10 @@
+name: email-templates
+description: Skill wspierający tworzenie i zarządzanie szablonami wiadomości email.
+topics:
+  - templates
+  - jinja2
+  - html
+  - formatting
+applyTo:
+  - path: "**/templates/**"
+  - path: "**/*template*.py"
